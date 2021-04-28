@@ -1,5 +1,7 @@
 # Tela de Login do Instagram
 
+![Demonstração](https://github.com/patrikrufino/login-instagram/blob/main/img/Demonstra%C3%A7%C3%A3o.png?raw=true)
+
 Tela de login do Instagram, desenvolvido com base no projeto proposto pelo Digital One Innovation ministrao pela [Gabriela](https://github.com/SpruceGabriela/instagram-dio)
 
 ### Tecnologias:
